@@ -21,3 +21,5 @@ Este campo ha sido el más difícil de tratar por la variedad de descripciones. 
 
 ### Conclusiones
 Han aumentado los casos de ataques de tiburón desde la década de los 60's coincidiendo con la Revolución Cubana. Pero viendo los datos no se puede atribuir a este suceso histórico, sino al aumento de prácticas deportivas acuáticas entre las que destaca el Surf por encima de las demás. Con el filtrado del campo de las Actividades tampoco se puede concluir que hayan aumentado los casos debido al exilio cubano. Investigando en los casos "Unknown" encontramos un registro de ataque de tiburon a refugiados cubanos, pero no existen más especificados.
+
+[Aquí un link sobre ataques de tiburón a surfistas](https://www.surferrule.com/ataque-tiburon-surfista/)
