@@ -3,4 +3,4 @@ En 1956 82 guerrilleros, entre los que se encuentran Fidel Castro y el argentino
 
 [Guerrilleros Cubanos][img1]
 
-[img1]: /c/Users/Eduardo/Desktop/iron-hack/pandas-project/RevolucionCubana.jpg "Guerrilleros Cubanos"
+[img1]: /Imagenes/RevolucionCubana.jpg "Guerrilleros Cubanos"
